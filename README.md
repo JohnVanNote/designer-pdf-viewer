@@ -1,3 +1,4 @@
-This is my solution to Hackerrank's 101 Hack 40 Challenge: Desinger PDF Viewer
+## hacker-rank
 
-Link here: https://www.hackerrank.com/contests/101hack40/challenges/designer-pdf-viewer
+Some hacker ranks solutions that I probably butchered.
+
